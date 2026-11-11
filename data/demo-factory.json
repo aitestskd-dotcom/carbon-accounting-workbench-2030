@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "synthetic": true,
+  "warning": "Fictional demonstration only. All factors are invented for software testing, not reporting. No real client data or verification.",
+  "profile": {
+    "client": "Demonstration Metals Ltd (FICTIONAL)",
+    "site": "Demo Works / Line A (FICTIONAL)",
+    "period": "2026-01-01 to 2026-12-31 (synthetic annual scenario, not observed data)",
+    "product": "Illustrative metal product",
+    "output": "10000",
+    "approach": "Operational control",
+    "destination": "EU / CBAM information pack",
+    "reviewer": "Demo reviewer / not an approval",
+    "notes": "Synthetic inputs and invented factors. This is not a CBAM calculation, complete product footprint or verified report. Allocation, precursors and legal applicability are not assessed. Evidence identifiers are placeholders, not documents."
+  },
+  "rows": [
+    {"name": "Natural gas / kWh", "scope": "1", "qty": 2000000, "factor": 0.2, "evidence": "DEMO-GAS-01 / invented factor 0.2 kgCO2e/kWh / fictional evidence"},
+    {"name": "Electricity / kWh", "scope": "2", "qty": 3000000, "factor": 0.35, "evidence": ""},
+    {"name": "Diesel / litre", "scope": "1", "qty": 20000, "factor": 2.5, "evidence": "DEMO-FUEL-02 / invented factor 2.5 kgCO2e/litre / fictional evidence"}
+  ],
+  "factor_notes": {"electricity": "Invented factor 0.35 kgCO2e/kWh. Evidence deliberately missing to demonstrate a warning."},
+  "expected_results": {
+    "scope1_tco2e": 450,
+    "scope2_location_based_tco2e": 1050,
+    "selected_activity_total_tco2e": 1500,
+    "illustrative_process_intensity_tco2e_per_tonne": 0.15,
+    "evidence_reference_count": 2,
+    "missing_evidence_count": 1,
+    "verification_status": "NOT VERIFIED"
+  }
+}
