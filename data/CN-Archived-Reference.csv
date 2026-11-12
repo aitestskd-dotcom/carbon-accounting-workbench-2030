@@ -1,0 +1,70 @@
+cn,description,sector,direct_tCO2e_per_t,indirect_tCO2e_per_t,total_tCO2e_per_t,source_page,source_document,status
+26011200,Agglomerated iron ores,Steel,0.31,0.05,0.36,7,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7201,Pig iron,Steel,1.90,0.17,2.07,7,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7203,Direct-reduced iron,Steel,4.81,0,4.81,7,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+72061000,Steel ingots,Steel,2.52,0.23,2.75,7,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+72069000,Other primary steel,Steel,1.97,0.23,2.20,7,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7208,Hot-rolled flat steel,Steel,2.01,0.27,2.28,9,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7209,Cold-rolled flat steel,Steel,2.03,0.36,2.39,9,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7210,Coated flat steel >=600mm,Steel,1.97,0.39,2.35,9,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7212,Coated flat steel <600mm,Steel,1.97,0.39,2.35,9,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7213,Wire rod,Steel,1.89,0.32,2.21,9,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+72141000,Forged bars,Steel,2.65,0.62,3.27,9,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+72142000,Reinforcing bars,Steel,1.89,0.32,2.21,9,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7215,Other bars,Steel,1.89,0.32,2.21,9,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7216,Angles and sections,Steel,1.89,0.32,2.21,9,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+721710,Uncoated wire,Steel,1.88,0.49,2.37,10,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+721720,Zinc-coated wire,Steel,1.95,0.51,2.46,10,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7221,Stainless wire rod,Steel,2.14,2.17,4.30,10,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+722300,Stainless wire,Steel,2.13,2.36,4.49,11,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7227,Alloy wire rod,Steel,1.86,0.57,2.43,11,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7229,Alloy wire,Steel,1.84,0.75,2.59,12,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7301,Sheet piling,Steel,2.03,0.36,2.39,12,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+730300,Cast-iron pipes,Steel,2.21,0.35,2.56,12,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7305,Large-diameter pipes,Steel,2.03,0.36,2.39,12,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+73072100,Stainless flanges,Steel,1.87,0.43,2.30,13,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+73079100,Other flanges,Steel,1.93,0.29,2.21,13,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7308,Structures,Steel,2.46,2.55,5.01,13,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7309,Tanks >300 litres,Steel,1.97,0.39,2.35,14,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7310,Containers <=300 litres,Steel,1.97,0.39,2.35,14,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+731100,Gas containers,Steel,1.89,0.32,2.21,14,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+731815,Screws and bolts,Steel,1.89,0.32,2.21,14,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+731816,Nuts,Steel,1.89,0.32,2.21,14,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+73182200,Washers,Steel,1.89,0.32,2.21,14,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+73182300,Rivets,Steel,1.89,0.32,2.21,14,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+25070080,Other kaolinic clays - calcined only,Cement,0.23,0.08,0.32,16,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+25231000,Clinker,Cement,0.83,0.04,0.87,16,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+25232100,White Portland cement,Cement,1.16,0.10,1.26,16,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+25232900,Other Portland cement,Cement,0.81,0.06,0.87,16,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+25239000,Other hydraulic cements,Cement,0.59,0.04,0.63,16,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+25233000,Aluminous cement,Cement,1.75,0.15,1.90,16,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+28080000,Nitric and sulphonitric acids,Fertilisers,2.56,0.05,2.60,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+2814,Ammonia,Fertilisers,2.68,0.14,2.82,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+28342100,Potassium nitrate,Fertilisers,1.82,0.06,1.88,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+310210,Urea,Fertilisers,1.78,0.12,1.90,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+31022100,Ammonium sulphate,Fertilisers,0.86,0.09,0.94,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+310230,Ammonium nitrate,Fertilisers,2.32,0.07,2.39,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+31025000,Sodium nitrate,Fertilisers,3.99,0.07,4.06,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+31028000,Urea/ammonium nitrate mixtures,Fertilisers,1.28,0.06,1.34,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+310520,NPK,Fertilisers,1.23,0.11,1.35,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+31053000,Diammonium phosphate,Fertilisers,0.69,0.06,0.75,17,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+31054000,Monoammonium phosphate,Fertilisers,0.44,0.05,0.49,18,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+31055100,N/P nitrates and phosphates,Fertilisers,1.29,0.11,1.40,18,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+31055900,Other N/P fertilisers,Fertilisers,1.29,0.11,1.40,18,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7601,Unwrought aluminium,Aluminium,2.36,8.14,10.49,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7603,Powders and flakes,Aluminium,2.48,8.40,10.88,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+76041010,Non-alloy bars and rods,Aluminium,2.31,7.49,9.80,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+76041090,Non-alloy profiles,Aluminium,2.73,9.30,12.04,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+76042100,Hollow alloy profiles,Aluminium,2.73,9.30,12.04,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+76042910,Alloy bars and rods,Aluminium,2.31,7.49,9.80,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+76042990,Other alloy profiles,Aluminium,2.73,9.30,12.04,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7605,Wire,Aluminium,2.31,7.49,9.80,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7606,Plates/sheets >0.2mm,Aluminium,2.86,9.25,12.11,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7607,Foil <=0.2mm,Aluminium,2.86,9.25,12.11,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7608,Tubes and pipes,Aluminium,2.73,9.30,12.04,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+76090000,Pipe fittings,Aluminium,2.73,9.30,12.04,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+7610,Structures,Aluminium,2.73,9.30,12.04,19,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+76161000,Fasteners,Aluminium,2.86,9.25,12.11,20,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+76169910,Other cast articles,Aluminium,2.48,8.40,10.88,20,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+76169990,Other articles,Aluminium,2.86,9.25,12.11,20,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
+28041000,Hydrogen,Hydrogen,10.4,0,10.4,21,Commission 22 December 2023 transitional defaults,ARCHIVED NOT FOR 2026
